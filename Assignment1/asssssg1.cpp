@@ -10,6 +10,8 @@ using namespace std;//used to remove the ambiguity and name collision
 //number of subjects
 #define m 5
 //Structure of information parameters of students
+
+
 struct stud
 {
 	//all are public data members by default
@@ -22,6 +24,9 @@ struct stud
 	string mob;
 
 };
+
+// changes
+// lauda
 
 //class student
 class student
